@@ -7,7 +7,7 @@ This data will be used to create machine learning models to classify the risk le
 ## Supervised Machine Learning Challenge
 In this assignment, you I built a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fdigital.hbs.edu%2Fplatform-digit%2Fsubmission%2Flending-club-creating-the-marketplace-lending-business-model%2F&psig=AOvVaw07oagxdkKC8a1WJz-Eogqw&ust=1650816873341000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJiVlJ3KqvcCFQAAAAAdAAAAABAD![image](https://user-images.githubusercontent.com/93007493/164914290-c0b697f9-b40c-4481-a93d-234de194e78d.png)
+(https://user-images.githubusercontent.com/93007493/164914290-c0b697f9-b40c-4481-a93d-234de194e78d.png)
 
 # The Results
 
